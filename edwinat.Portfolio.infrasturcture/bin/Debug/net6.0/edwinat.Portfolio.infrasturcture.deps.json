@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "edwinat.Portfolio.infrasturcture/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleEmail": "3.7.0.184",
+          "edwinat.Portfolio.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "edwinat.Portfolio.infrasturcture.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.12.12": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.12.12"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.7.0.184": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.12.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.184"
+          }
+        }
+      },
+      "edwinat.Portfolio.Domain.Entities/1.0.0": {
+        "runtime": {
+          "edwinat.Portfolio.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "edwinat.Portfolio.infrasturcture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.12.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nuPbGcXzY9dWtsRwzqzrqyLjqMwiCSBeLyUwd8T2bYtpPyvdZISffSTRecjkwPyCa33+q0qjKLZKtsu8LkDl0w==",
+      "path": "awssdk.core/3.7.12.12",
+      "hashPath": "awssdk.core.3.7.12.12.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.7.0.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4QmmX2Tu3NE6/6ylY9zBHQ4pfLonOdD5eUavUfcV4RYedjDBaccXm0uVvDw9GjbCeuvRECn9x/NJ18COoIfYGg==",
+      "path": "awssdk.simpleemail/3.7.0.184",
+      "hashPath": "awssdk.simpleemail.3.7.0.184.nupkg.sha512"
+    },
+    "edwinat.Portfolio.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

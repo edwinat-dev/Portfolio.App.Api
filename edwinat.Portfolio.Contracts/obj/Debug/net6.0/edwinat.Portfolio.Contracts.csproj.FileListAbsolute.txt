@@ -1,0 +1,12 @@
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\bin\Debug\net6.0\edwinat.Portfolio.Contracts.deps.json
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\bin\Debug\net6.0\edwinat.Portfolio.Contracts.dll
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\bin\Debug\net6.0\edwinat.Portfolio.Contracts.pdb
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.csproj.AssemblyReference.cache
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.AssemblyInfoInputs.cache
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.AssemblyInfo.cs
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.csproj.CoreCompileInputs.cache
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.dll
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\refint\edwinat.Portfolio.Contracts.dll
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\edwinat.Portfolio.Contracts.pdb
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.Contracts\obj\Debug\net6.0\ref\edwinat.Portfolio.Contracts.dll

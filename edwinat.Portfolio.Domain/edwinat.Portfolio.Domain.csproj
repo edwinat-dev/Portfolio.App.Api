@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\edwinat.Portfolio.Contracts\edwinat.Portfolio.Contracts.csproj" />
+    <ProjectReference Include="..\edwinat.Portfolio.Domain.Entities\edwinat.Portfolio.Domain.Entities.csproj" />
+    <ProjectReference Include="..\edwinat.Portfolio.infrasturcture\edwinat.Portfolio.infrasturcture.csproj" />
+  </ItemGroup>
+
+</Project>

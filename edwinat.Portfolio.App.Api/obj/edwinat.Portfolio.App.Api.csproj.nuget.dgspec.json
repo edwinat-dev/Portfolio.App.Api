@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.App.Api\\edwinat.Portfolio.App.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.App.Api\\edwinat.Portfolio.App.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.App.Api\\edwinat.Portfolio.App.Api.csproj",
+        "projectName": "edwinat.Portfolio.App.Api",
+        "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.App.Api\\edwinat.Portfolio.App.Api.csproj",
+        "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+        "outputPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.App.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj"
+              },
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\edwinat.Portfolio.Domain.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\edwinat.Portfolio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.Lambda": {
+              "target": "Package",
+              "version": "[3.7.13.26, )"
+            },
+            "AWSSDK.SimpleEmail": {
+              "target": "Package",
+              "version": "[3.7.0.184, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.7, 6.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.7, 6.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[6.0.7, 6.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj",
+        "projectName": "edwinat.Portfolio.Contracts",
+        "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj",
+        "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+        "outputPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj",
+        "projectName": "edwinat.Portfolio.Domain.Entities",
+        "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+        "outputPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\edwinat.Portfolio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\edwinat.Portfolio.Domain.csproj",
+        "projectName": "edwinat.Portfolio.Domain",
+        "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\edwinat.Portfolio.Domain.csproj",
+        "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+        "outputPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Contracts\\edwinat.Portfolio.Contracts.csproj"
+              },
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj"
+              },
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj",
+        "projectName": "edwinat.Portfolio.infrasturcture",
+        "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj",
+        "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+        "outputPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj": {
+                "projectPath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.Domain.Entities\\edwinat.Portfolio.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.SimpleEmail": {
+              "target": "Package",
+              "version": "[3.7.0.184, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

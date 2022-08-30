@@ -1,0 +1,5 @@
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.App.Api.Tests\obj\Debug\net6.0\edwinat.Portfolio.App.Api.Tests.csproj.AssemblyReference.cache
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.App.Api.Tests\obj\Debug\net6.0\edwinat.Portfolio.App.Api.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.App.Api.Tests\obj\Debug\net6.0\edwinat.Portfolio.App.Api.Tests.AssemblyInfoInputs.cache
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.App.Api.Tests\obj\Debug\net6.0\edwinat.Portfolio.App.Api.Tests.AssemblyInfo.cs
+C:\edwinat.dev\edwinat.Portfolio.App.Api\edwinat.Portfolio.App.Api.Tests\obj\Debug\net6.0\edwinat.Portfolio.App.Api.Tests.csproj.CoreCompileInputs.cache

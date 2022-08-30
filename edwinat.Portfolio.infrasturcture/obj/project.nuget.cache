@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8iFh67zrQD0Sbh7wD/TQwJospWboRcPwXCCFXyP2el/FG6GxtoWMr2FD8Zp1iMKKgTZCu0WV0FT22BSlIGQJw==",
+  "success": true,
+  "projectFilePath": "C:\\edwinat.dev\\Portfolio\\Portfolio.App.Api\\edwinat.Portfolio.infrasturcture\\edwinat.Portfolio.infrasturcture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwin\\.nuget\\packages\\awssdk.core\\3.7.12.12\\awssdk.core.3.7.12.12.nupkg.sha512",
+    "C:\\Users\\edwin\\.nuget\\packages\\awssdk.simpleemail\\3.7.0.184\\awssdk.simpleemail.3.7.0.184.nupkg.sha512"
+  ],
+  "logs": []
+}
